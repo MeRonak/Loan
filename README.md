@@ -1,4 +1,4 @@
-# Loan
+# Web3.0 Assignments
 Name -- Ronak Agarwal
 Roll.no -- 200818
 
